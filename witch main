@@ -1,0 +1,31 @@
+*   [33ma9e8162[m[33m ([m[1;36mHEAD -> [m[1;32mdevel[m[33m, [m[1;32mmain[m[33m)[m Merge remote-tracking branch 'advanced/master'
+[31m|[m[32m\[m  
+[31m|[m * [33m426381d[m[33m ([m[1;31madvanced/master[m[33m, [m[1;32mmaster[m[33m)[m Initial commit
+*   [33me390809[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Fix merge conflicts
+[33m|[m[34m\[m  
+[33m|[m * [33m380b3e6[m Add print in master
+[33m|[m * [33m29aab29[m Initial commit
+*   [33mc76039d[m Merge branch 'feature/add-logging'
+[35m|[m[36m\[m  
+[35m|[m * [33md67b3c0[m Add logging
+* [36m|[m [33m8b72d0b[m merge ur-history from intermediate2/master
+[1;31m|[m[36m\[m[36m|[m 
+[1;31m|[m * [33mb23547b[m Create a second file
+[1;31m|[m * [33maf0e42a[m Initial commit
+*   [33mfea276d[m merge ur-history from intermediate/master
+[1;33m|[m[1;34m\[m  
+[1;33m|[m * [33m9bb7a50[m Initial commit
+* [33m4a1d7b2[m make and fill .gitignore
+* [33m4007a2d[m remove 1.in & 1.out files
+* [33m842a71f[m restore mergesort.py
+*   [33mfce53f4[m Merge basics-materials history
+[1;35m|[m[1;36m\[m  
+[1;35m|[m * [33mdd2979f[m Add file to test settings
+[1;35m|[m * [33m4e6605f[m A simple test
+[1;35m|[m * [33m0729109[m Removed debug-prints
+[1;35m|[m * [33mdd8c56c[m Merge-sort
+[1;35m|[m * [33mb6fd9ed[m Strings to integers
+[1;35m|[m * [33mbe5d637[m Basic input
+[1;35m|[m * [33me1b91ed[m Initial commit.
+* [33m701394b[m fix syntax in hello_world.py
+* [33m63fb759[m hello_world.py testing commit
